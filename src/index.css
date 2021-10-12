@@ -15,13 +15,12 @@
     height: 0.45rem !important;
   }
   .input-range__slider::after {
-    content: '>';
-    right: 2px;
+    content:url('./Images/icon-slider.svg');
+    right: 4px;
+    bottom: 1px;
+    
   }
-  .input-range__slider::before{
-    content: '<';
-    left: 2px;
-  }
+
   .input-range__slider::after, .input-range__slider::before {
     position: absolute;
     color: #71FFF9;

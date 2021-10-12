@@ -7,7 +7,8 @@ module.exports = {
       'Grayish-Blue': 'hsl(225, 20%, 60%)',
       'Light-Red': 'hsl(15, 100%, 70%)',
       'Dark-Desaturated-Blue': 'hsl(227, 35%, 25%)',
-      'Pale-Blue': 'hsl(226, 100%, 87%)'
+      'Pale-Blue': 'hsl(226, 100%, 87%)',
+      'White-hover': 'hsl(0, 0%, 100%)'
       
     },
     backgroundColor: theme => ({
@@ -21,6 +22,7 @@ module.exports = {
     }),
     backgroundImage: theme => ({
       'Circle-Background': "url('./Images/pattern-circles.svg')",
+      'Pattern-Background': "url('./Images/bg-pattern.svg')"
     }),
     fontFamily:{
       'Manrope': ['Manrope']

@@ -12,9 +12,7 @@ const ToggleBilling=({id, checked, onChange, optionLabels}) => {
             />
             <label className="toggle-switch-label" htmlFor={id}>
                 <span 
-                    className="toggle-switch-inner" 
-                    data-yes={optionLabels[0]} 
-                    data-no={optionLabels[0]}
+                    className="toggle-switch-inner"
                     tabIndex={-1}
                 />
                 <span className="toggle-switch-switch" tabIndex={-1}/>
