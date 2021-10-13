@@ -7,7 +7,7 @@ Frontend challenge from [Frontmentor](https://www.frontendmentor.io/challenges/i
 - [tailwindcss](https://tailwindcss.com/)
 - [React](https://reactjs.org/)
 - [Range_Slider](https://github.com/davidchin/react-input-range) 
-- [Toggle_Switch][https://www.sitepoint.com/react-toggle-switch-reusable-component/]
+- [Toggle_Switch](https://www.sitepoint.com/react-toggle-switch-reusable-component/)
 
 ## Links:
 
