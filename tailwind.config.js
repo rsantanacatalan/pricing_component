@@ -1,5 +1,10 @@
 module.exports = {
-  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+  mode: 'jit',
+  purge: [
+    './src/**/*.{js,jsx,ts,tsx,css}', 
+    './public/index.html',
+    './src/Components/**/*.{js}'
+  ],
   darkMode: false, // or 'media' or 'class'
   theme: {
     textColor: theme => theme('colors'),
