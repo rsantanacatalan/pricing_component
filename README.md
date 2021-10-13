@@ -11,8 +11,8 @@ Frontend challenge from [Frontmentor](https://www.frontendmentor.io/challenges/i
 
 ## Links:
 
-- [Repository](https://github.com/rsantanacatalan/tip-calculator)
-- [Git-Hub Page](https://rsantanacatalan.github.io/tip-calculator/)
+- [Repository](https://github.com/rsantanacatalan/pricing_component)
+- [Git-Hub Page](https://rsantanacatalan.github.io/pricing_component/)
 
 ## Frontmentor Profile:
 
@@ -21,7 +21,7 @@ Frontend challenge from [Frontmentor](https://www.frontendmentor.io/challenges/i
 ## Download:
 
 ```
-git clone https://github.com/rsantanacatalan/tip-calculator.git
+git clone https://github.com/rsantanacatalan/pricing_component.git
 ```
 
 
