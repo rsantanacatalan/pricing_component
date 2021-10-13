@@ -1,7 +1,6 @@
 module.exports = {
-  mode: 'jit',
   purge: [
-    './src/**/*.{js,jsx,ts,tsx,css}', 
+    './src/**/*.{js,jsx,ts,tsx}', 
     './public/index.html',
     './src/Components/**/*.{js}'
   ],
@@ -26,8 +25,8 @@ module.exports = {
       
     }),
     backgroundImage: theme => ({
-      'Circle-Background': "url('./Images/pattern-circles.svg')",
-      'Pattern-Background': "url('./Images/bg-pattern.svg')"
+      'Circle-Background': "url('../Images/pattern-circles.svg')",
+      'Pattern-Background': "url('../Images/bg-pattern.svg')"
     }),
     fontFamily:{
       'Manrope': ['Manrope']
